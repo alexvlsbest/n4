@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\AlexVLS\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\AlexVLS\\.nuget\\packages"
+    ]
+  }
+}

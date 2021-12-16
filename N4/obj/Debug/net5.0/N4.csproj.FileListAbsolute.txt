@@ -1,0 +1,16 @@
+C:\Users\AlexVLS\source\repos\N4\bin\Debug\net5.0\N4.exe
+C:\Users\AlexVLS\source\repos\N4\bin\Debug\net5.0\N4.deps.json
+C:\Users\AlexVLS\source\repos\N4\bin\Debug\net5.0\N4.runtimeconfig.json
+C:\Users\AlexVLS\source\repos\N4\bin\Debug\net5.0\N4.runtimeconfig.dev.json
+C:\Users\AlexVLS\source\repos\N4\bin\Debug\net5.0\N4.dll
+C:\Users\AlexVLS\source\repos\N4\bin\Debug\net5.0\ref\N4.dll
+C:\Users\AlexVLS\source\repos\N4\bin\Debug\net5.0\N4.pdb
+C:\Users\AlexVLS\source\repos\N4\obj\Debug\net5.0\N4.csproj.AssemblyReference.cache
+C:\Users\AlexVLS\source\repos\N4\obj\Debug\net5.0\N4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlexVLS\source\repos\N4\obj\Debug\net5.0\N4.AssemblyInfoInputs.cache
+C:\Users\AlexVLS\source\repos\N4\obj\Debug\net5.0\N4.AssemblyInfo.cs
+C:\Users\AlexVLS\source\repos\N4\obj\Debug\net5.0\N4.csproj.CoreCompileInputs.cache
+C:\Users\AlexVLS\source\repos\N4\obj\Debug\net5.0\N4.dll
+C:\Users\AlexVLS\source\repos\N4\obj\Debug\net5.0\ref\N4.dll
+C:\Users\AlexVLS\source\repos\N4\obj\Debug\net5.0\N4.pdb
+C:\Users\AlexVLS\source\repos\N4\obj\Debug\net5.0\N4.genruntimeconfig.cache
